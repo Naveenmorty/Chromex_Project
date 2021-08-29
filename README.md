@@ -3,3 +3,4 @@ paint
 
 red
 blue 
+photo
